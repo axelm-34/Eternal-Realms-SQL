@@ -31,32 +31,41 @@ En revanche, le projet ne prend pas en charge le fonctionnement du jeu en lui-m�
 ## **1.4 Règles de gestion**
 
 - **RG1 – Gestion des joueurs**
+
 Chaque joueur possède un identifiant unique, un pseudonyme unique et une adresse e-mail unique. Un joueur peut créer zéro à plusieurs personnages.
 
 - **RG2 – Gestion des personnages**
+
 Chaque personnage appartient obligatoirement à un seul joueur. Un joueur peut posséder plusieurs personnages.
 
 - **RG3 – Gestion des classes**
+
 Chaque personnage doit obligatoirement posséder une classe. Une même classe peut être attribuée à plusieurs personnages.
 
 - **RG4 – Gestion des guildes**
 Un personnage peut ne rejoindre aucune guilde ou appartenir à une seule guilde à la fois. Une guilde peut accueillir plusieurs personnages.
 
 - **RG5 – Gestion des objets**
+
 Chaque objet possède un identifiant unique, un nom, un type, une rareté et un niveau requis pour pouvoir être utilisé.
 
 - **RG6 – Gestion des inventaires**
+
 Un personnage peut posséder plusieurs objets et un même objet peut être possédé par plusieurs personnages. Pour chaque objet présent dans un inventaire, le système conserve la quantité possédée et la date d'obtention.
 
 - **RG7 – Gestion des quêtes**
+
 Chaque quête possède un identifiant unique, un titre et un niveau recommandé.
 
 - **RG8 – Progression des quêtes**
+
 Un personnage peut participer à plusieurs quêtes et une même quête peut être réalisée par plusieurs personnages. Pour chaque participation, le système conserve le statut de progression, la date de début et éventuellement la date de fin.
 
 - **RG9 – Progression des personnages**
+
 Chaque personnage possède un niveau compris entre 1 et 100 ainsi qu'une quantité de points d'expérience qui ne peut pas être négative.
 
 - **RG10 – Classement des personnages**
+
 Les personnages sont classés selon leur quantité de points d'expérience. Le classement est calculé à partir des données enregistrées, sans nécessiter de stocker manuellement la position de chaque personnage.
 
