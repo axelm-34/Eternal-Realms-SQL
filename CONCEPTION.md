@@ -43,6 +43,7 @@ Chaque personnage appartient obligatoirement à un seul joueur. Un joueur peut p
 Chaque personnage doit obligatoirement posséder une classe. Une même classe peut être attribuée à plusieurs personnages.
 
 - **RG4 – Gestion des guildes**
+
 Un personnage peut ne rejoindre aucune guilde ou appartenir à une seule guilde à la fois. Une guilde peut accueillir plusieurs personnages.
 
 - **RG5 – Gestion des objets**
