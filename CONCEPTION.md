@@ -22,9 +22,7 @@ La base de données devra notamment permettre de gérer les comptes des joueurs,
 - Calculer un classement des personnages selon leur expérience.
 
 ## **1.3 Périmètre fonctionnel**
-Ce ### 1.3 Périmètre fonctionnel
-
-Le projet se concentre uniquement sur la conception et la gestion des données principales d'un MMORPG.
+Ce projet se concentre uniquement sur la conception et la gestion des données principales d'un MMORPG.
 
 Il couvre la gestion des joueurs, des personnages, des classes, des guildes, des objets, des inventaires et des quêtes.
 
