@@ -1,10 +1,5 @@
 # ADR 0001 — Choix du système de gestion de base de données
 
-- **Statut :** Accepté
-- **Date :** 10 novembre 2026
-- **Projet :** Eternal Realms
-- **Décision :** Utilisation de PostgreSQL
-
 ## 1. Contexte
 
 Dans le cadre du projet Eternal Realms, nous devons concevoir une base de données destinée à un MMORPG.
